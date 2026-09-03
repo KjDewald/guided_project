@@ -1,7 +1,7 @@
 <script>
-  import videoSrc from '../assets/CoachA.mp4';
+  import videoSrc from '../assets/CoachA1.mov';
 </script>
-
+ 
 <section id="center">
   <video src={videoSrc} controls></video>
 </section>

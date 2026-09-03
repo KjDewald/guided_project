@@ -1,10 +1,10 @@
 <script>
-    import coachA1 from '../assets/CoachA1.mp4';
-    import coachB1 from '../assets/CoachB1.mp4';
-    import coachC1 from '../assets/CoachC1.mp4';
-    import coachA2 from '../assets/CoachA2.mov';
-    import coachB2 from '../assets/CoachB2.mov';
-    import CoachC2 from '../assets/CoachC2.mov';
+    import coachA1 from '../assets/CoachA1.mov';
+    import coachB1 from '../assets/CoachB1.mov';
+    import coachC1 from '../assets/CoachC1.mov';
+    import coachA2 from '../assets/CoachA2.mp4';
+    import coachB2 from '../assets/CoachB2.mp4';
+    import CoachC2 from '../assets/CoachC2.mp4';
 
     let { page } = $props();
 
